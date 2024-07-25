@@ -27,3 +27,7 @@ The system keeps track of the number of occupied parking spaces using counters c
 ## Conclusion
 
 The Smart Car Parking System provides an efficient and automated way to manage parking spaces. By utilizing ultrasonic sensors, IR sensors, and servo motors, the system can detect available parking spaces and control barriers, enhancing the parking experience. This project showcases the integration of various hardware components with Arduino to create a functional and intelligent system.
+
+
+https://github.com/user-attachments/assets/6f8f3d9e-a2fc-4afa-b084-7ea1d7a9b780
+
